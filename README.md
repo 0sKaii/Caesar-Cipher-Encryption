@@ -23,3 +23,7 @@ This script:
    ```bash
    git clone https://github.com/0sKaii/Caesar-Cipher-Encryption.git
 
+## Run the script:
+
+```bash
+python main.py
